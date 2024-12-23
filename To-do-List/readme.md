@@ -3,6 +3,9 @@
 ## 📋 Objective:
 The goal is to build a simple to-do list application that enables users to add, edit, and delete tasks. The application should allow users to manage their tasks effectively by interacting with the list. 📝
 
+## Video Demonstration
+https://github.com/user-attachments/assets/47816746-80bb-44ac-b22a-04860ac0fce6
+
 ## 🖥️ Technologies Used:
 You will use HTML, CSS, and JavaScript for the front-end of the application. These technologies will help create the user interface and manage interactions with the list. 💻
 
