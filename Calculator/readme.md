@@ -2,6 +2,10 @@
 ## 🎯 Objective:
 The goal is to design a fundamental calculator using CSS, HTML, and JavaScript. This calculator should include buttons for performing basic mathematical operations like addition, subtraction, multiplication, and division. 🧮
 
+## Video Demonstration
+https://github.com/user-attachments/assets/51bfef19-db8c-4b63-b7e7-8f6511736a1b
+
+
 ## 🖥️ Screen Display:
 Your calculator must feature a screen that displays both the user's inputs and the results of computations. This display will allow users to track their calculations and see the output clearly. 💻
 
