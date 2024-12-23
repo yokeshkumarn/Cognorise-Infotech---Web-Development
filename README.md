@@ -21,7 +21,7 @@ This repository contains 4 folders which is been done by me during my internship
     <td>4</td>
     <td>Calculator</td>
     <th>HTML, CSS, JS</td>
-    <td><a href="">Click here</a></td>
+    <td><a href="https://github.com/yokeshkumarn/Cognorise-Infotech-Web-Development/tree/main/Calculator">Click here</a></td>
   </tr>
 
   <tr>
