@@ -1,10 +1,6 @@
-# <img src="https://github.com/user-attachments/assets/018c3906-68ef-4f48-8ff4-4822155cb8db" alt="Cognorise Infotech logo" height=100px></img>
- COGNORISE INTERNSHIP TASKS
+# <img src="https://github.com/user-attachments/assets/018c3906-68ef-4f48-8ff4-4822155cb8db" alt="Cognorise Infotech logo" height=100px></img> COGNORISE INTERNSHIP TASKS
 
 This repository contains 4 folders which is been done by me during my internship at Cognorise Infotech.
-
-<img src="https://github.com/user-attachments/assets/018c3906-68ef-4f48-8ff4-4822155cb8db" alt="Cognorise Infotech logo" height=100px></img>
-
 
 https://github.com/user-attachments/assets/018c3906-68ef-4f48-8ff4-4822155cb8db
 
