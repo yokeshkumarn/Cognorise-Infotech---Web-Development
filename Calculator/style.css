@@ -1,0 +1,114 @@
+:root {
+--bg-color-light: #f3f4f6;
+--bg-color-dark: #1e1e2f;
+--text-color-light: #000;
+--text-color-dark: #fff;
+--button-bg-light: #007bff;
+--button-bg-dark: #0056b3;
+--operator-bg-light: #28a745;
+--operator-bg-dark: #1e7e34;
+--clear-bg-light: #dc3545;
+--clear-bg-dark: #bd2130;
+}
+
+body {
+font-family: Arial, sans-serif;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100vh;
+margin: 0;
+background-color: var(--bg-color-light);
+color: var(--text-color-light);
+transition: all 0.3s;
+}
+
+.dark-mode {
+background-color: var(--bg-color-dark);
+color: var(--text-color-dark);
+}
+
+.calculator {
+background: #fff;
+border-radius: 10px;
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+width: 300px;
+padding: 20px;
+transition: background 0.3s;
+}
+
+.dark-mode .calculator {
+background: #2c2c3e;
+}
+
+.screen {
+width: 100%;
+height: 60px;
+background: #f1f1f1;
+border: none;
+border-radius: 5px;
+font-size: 1.5rem;
+padding: 10px;
+text-align: right;
+box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+margin-bottom: 20px;
+}
+
+.dark-mode .screen {
+background: #3b3b4d;
+color: var(--text-color-dark);
+}
+
+.buttons {
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+gap: 10px;
+}
+
+button {
+background: var(--button-bg-light);
+color: white;
+font-size: 1.2rem;
+border: none;
+border-radius: 5px;
+padding: 15px;
+cursor: pointer;
+transition: background 0.3s;
+}
+
+button:hover {
+background: var(--button-bg-dark);
+}
+
+button.operator {
+background: var(--operator-bg-light);
+}
+
+button.operator:hover {
+background: var(--operator-bg-dark);
+}
+
+button.clear {
+background: var(--clear-bg-light);
+}
+
+button.clear:hover {
+background: var(--clear-bg-dark);
+}
+
+.toggle-mode {
+margin-top: 20px;
+padding: 10px 20px;
+font-size: 1rem;
+cursor: pointer;
+border: none;
+border-radius: 5px;
+background: var(--operator-bg-light);
+color: white;
+transition: background 0.3s;
+}
+
+.toggle-mode:hover {
+background: var(--operator-bg-dark);
+}
