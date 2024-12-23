@@ -20,7 +20,12 @@ In order to manage the inputs and calculations efficiently, you’ll need to use
 
 ## Screenshots
 
+### Dark Mode
 ![image](https://github.com/user-attachments/assets/803f31ed-5ce4-420d-b450-811548a1f9db)
+
+### Light Mode
+![image](https://github.com/user-attachments/assets/841b234f-9b04-4522-8c0c-a2d0b93b8e62)
+
 
 
 
