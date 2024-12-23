@@ -18,6 +18,12 @@ The calculator must handle basic mathematical operations like addition, subtract
 In order to manage the inputs and calculations efficiently, you’ll need to use loops, conditionals, and other logic structures. This will allow the calculator to process the user’s input correctly and display the appropriate results based on the selected operation. ⚙️
 
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/803f31ed-5ce4-420d-b450-811548a1f9db)
+
+
+
 
 
 
