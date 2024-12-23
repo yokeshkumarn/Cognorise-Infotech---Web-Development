@@ -9,3 +9,12 @@ Using the provided weight and height, calculate the BMI using the standard formu
 ## 🌐 Use HTML, CSS, and JavaScript:
 Implement the BMI calculator with HTML for the structure, CSS for styling, and JavaScript for the functionality. Use basic arithmetic operations for the BMI calculation, ensuring an accurate result for the user. 💻
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/fd9712ff-5c60-4890-803f-dff64022e9ae)
+
+![image](https://github.com/user-attachments/assets/90001738-1102-4bf2-98b8-8e4703352a1a)
+
+![image](https://github.com/user-attachments/assets/ac49345f-7cd7-4258-bcf1-3d63eafdf4b9)
+
+
